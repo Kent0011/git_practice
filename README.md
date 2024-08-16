@@ -8,7 +8,7 @@
 3. `$git add {ファイル名}`で対象のファイルをステージングエリアに登録
 (`$git add *`で全ファイルを登録)
 4. `$git commit -m"{コミットメッセージ}"`で編集をコミット
-5. `$git push main`でgithubに送信　(`main`はブランチ名？)
+5. `$git push origin main`でgithubに送信　(`main`はブランチ名？)
 
 
 ブランチについては学習中
